@@ -18,7 +18,7 @@
             recaptchaResponse.value = token;
         });
     });
-    </script>sqe
+    </script>
   
         
   </head>
