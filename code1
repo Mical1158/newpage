@@ -7,20 +7,4 @@
    
     <meta property="og:type" content="website">
     
-    <link rel="apple-touch-icon" href="https://obec.dobraobec.sk/files/12/profil/e38b6_erb-ruska-vola.png">
-    <script src="https://jquery.dobraobec.sk/jquery.js"></script>
-    <!-- Google recaptcha -->
-    <script src="https://www.google.com/recaptcha/api.js?render=6LdncB4nAAAAAMQsKnWIgo1R85HPLbRBM4L7Xs93"></script>
-    <script>
-    grecaptcha.ready(function () {
-        grecaptcha.execute('6LdncB4nAAAAAMQsKnWIgo1R85HPLbRBM4L7Xs93', { action: 'newsletter' }).then(function (token) {
-            var recaptchaResponse = document.getElementById('recaptchaResponse');
-            recaptchaResponse.value = token;
-        });
-    });
-    </script>
-  
-        
-  </head>
-sca
-ss
+  ss
